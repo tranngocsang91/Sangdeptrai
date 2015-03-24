@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: aad29cd68dd30d542b2556dc31186d47
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hit
+    21300002: hit_0
+    21300004: hit_1
+    21300006: hit_6
+    21300008: hit_11
+    21300010: hit_20
+    21300012: hit_22
+    21300014: hit_30
+    21300016: hit_59
+    21300018: hit_8
+    21300020: hit_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hit_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 904
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 862
+        width: 146
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 650
+        width: 133
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 461
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 672
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 644
+        width: 111
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 246
+        width: 208
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 137
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 230
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

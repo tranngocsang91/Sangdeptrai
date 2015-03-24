@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\MRBEAN\Documents\New Unity Project\Assets\Extensions\UltimateMobile\Scripts\NativeAPI\Notifications\UM_NotificationController.cs">
+    <Files>
+      <File FileName="C:\Users\MRBEAN\Documents\New Unity Project\Assets\test.cs" Line="9" Column="44" />
+      <File FileName="C:\Users\MRBEAN\Documents\New Unity Project\Assets\Extensions\UltimateMobile\Scripts\NativeAPI\Notifications\UM_NotificationController.cs" Line="54" Column="60" />
+      <File FileName="C:\Users\MRBEAN\Documents\New Unity Project\Assets\Extensions\AndroidNative\Other\Notifications\AndroidNotificationManager.cs" Line="51" Column="108" />
+      <File FileName="C:\Users\MRBEAN\Documents\New Unity Project\Assets\Extensions\IOSNative\Notifications\IOSNotificationController.cs" Line="172" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

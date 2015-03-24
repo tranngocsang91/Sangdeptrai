@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 6d09519d580575844a61a8158d2deee4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: commonbtn
+    21300002: commonbtn_0
+    21300004: commonbtn_1
+    21300006: commonbtn_2
+    21300008: commonbtn_3
+    21300010: commonbtn_4
+    21300012: commonbtn_5
+    21300014: commonbtn_9
+    21300016: commonbtn_13
+    21300018: commonbtn_14
+    21300020: commonbtn_19
+    21300022: commonbtn_20
+    21300024: commonbtn_21
+    21300026: commonbtn_22
+    21300028: commonbtn_23
+    21300030: commonbtn_24
+    21300032: commonbtn_25
+    21300034: commonbtn_26
+    21300036: commonbtn_21
+    21300038: commonbtn_22
+    21300040: commonbtn_23
+    21300042: commonbtn_24
+    21300044: commonbtn_25
+    21300046: commonbtn_26
+    21300048: commonbtn_27
+    21300050: commonbtn_28
+    21300052: commonbtn_29
+    21300054: commonbtn_30
+    21300056: commonbtn_31
+    21300058: commonbtn_32
+    21300060: commonbtn_33
+    21300062: commonbtn_34
+    21300064: commonbtn_35
+    21300066: commonbtn_36
+    21300068: commonbtn_37
+    21300070: commonbtn_38
+    21300072: commonbtn_39
+    21300074: commonbtn_40
+    21300076: commonbtn_41
+    21300078: commonbtn_42
+    21300080: commonbtn_43
+    21300082: commonbtn_44
+    21300084: commonbtn_45
+    21300086: commonbtn_46
+    21300088: commonbtn_45
+    21300090: commonbtn_45
+    21300092: commonbtn_46
+    21300094: commonbtn_47
+    21300096: commonbtn_47
+    21300098: commonbtn_48
+    21300100: commonbtn_49
+    21300102: commonbtn_50
+    21300104: commonbtn_51
+    21300106: commonbtn_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: commonbtn_0
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 974
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_1
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 968
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_2
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 717
+        width: 396
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_3
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 957
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_4
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 952
+        width: 246
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_5
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 911
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_9
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 845
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 617
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 7
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 176
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 7
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_22
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 6
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_23
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 22
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 20
+        width: 243
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 481
+        height: 802
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 221
+        width: 481
+        height: 802
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_21
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 883
+        width: 220
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 790
+        width: 220
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_23
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 431
+        width: 64
+        height: 404
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_24
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_25
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 734
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_26
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 686
+        width: 101
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_27
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 651
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_28
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 693
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_29
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 609
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_30
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 590
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 494
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_32
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 491
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_33
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 394
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_34
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 424
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 424
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_36
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 301
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_37
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 283
+        width: 40
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_38
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 282
+        width: 40
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_39
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 293
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_40
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 193
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_41
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 93
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_42
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 167
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_43
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 265
+        width: 86
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_44
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 222
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_45
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 222
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_46
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 124
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_45
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 90
+        width: 41
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 23
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 38
+        width: 82
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: commonbtn_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 462
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

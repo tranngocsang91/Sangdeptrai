@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: 9c8081e240ccbbc45a255dd88a9025d1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: senlin
+    21300002: senlin_1
+    21300004: senlin_2
+    21300006: senlin_3
+    21300008: senlin_4
+    21300010: senlin_9
+    21300012: senlin_11
+    21300014: senlin_12
+    21300016: senlin_15
+    21300018: senlin_19
+    21300020: senlin_20
+    21300022: senlin_24
+    21300024: senlin_26
+    21300026: senlin_27
+    21300028: senlin_28
+    21300030: senlin_29
+    21300032: senlin_30
+    21300034: senlin_31
+    21300036: senlin_32
+    21300038: senlin_33
+    21300040: senlin_34
+    21300042: senlin_35
+    21300044: senlin_36
+    21300046: senlin_37
+    21300048: senlin_38
+    21300050: senlin_39
+    21300052: senlin_40
+    21300054: senlin_41
+    21300056: senlin_42
+    21300058: senlin_43
+    21300060: senlin_44
+    21300062: senlin_45
+    21300064: senlin_44
+    21300066: senlin_45
+    21300068: senlin_45
+    21300070: senlin_46
+    21300072: senlin_47
+    21300074: senlin_48
+    21300076: senlin_38
+    21300078: senlin_39
+    21300080: senlin_40
+    21300082: senlin_41
+    21300084: senlin_42
+    21300086: senlin_42
+    21300088: senlin_43
+    21300090: senlin_44
+    21300092: senlin_45
+    21300094: senlin_44
+    21300096: senlin_45
+    21300098: senlin_46
+    21300100: senlin_47
+    21300102: senlin_48
+    21300104: senlin_49
+    21300106: senlin_50
+    21300108: senlin_51
+    21300110: senlin_51
+    21300112: senlin_52
+    21300114: senlin_53
+    21300116: senlin_54
+    21300118: senlin_55
+    21300120: senlin_56
+    21300122: senlin_57
+    21300124: senlin_58
+    21300126: senlin_59
+    21300128: senlin_58
+    21300130: senlin_59
+    21300132: senlin_60
+    21300134: senlin_60
+    21300136: senlin_61
+    21300138: senlin_62
+    21300140: senlin_63
+    21300142: senlin_64
+    21300144: senlin_65
+    21300146: senlin_66
+    21300148: senlin_67
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: senlin_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 579
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 600
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 600
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 520
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 404
+        width: 140
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 419
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 408
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 108
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 135
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 120
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 133
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 138
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_35
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 86
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 82
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 80
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 80
+        width: 157
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 199
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 47
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 198
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 560
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 562
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 559
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 495
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_39
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 492
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 489
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 504
+        width: 154
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 485
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 405
+        width: 116
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 426
+        width: 100
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_44
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 440
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 366
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_46
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 320
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 320
+        width: 120
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 319
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 334
+        width: 154
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 338
+        width: 153
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 21
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 56
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_57
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 49
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_58
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 24
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_59
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 48
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 70
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_59
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 71
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_60
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 282
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_60
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 207
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 168
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 160
+        width: 220
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_64
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 42
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: senlin_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 144
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

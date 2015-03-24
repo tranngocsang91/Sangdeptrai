@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 1362990d34b5179499fbe5521cf23196
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yanren
+    21300002: yanren_0
+    21300004: yanren_1
+    21300006: yanren_2
+    21300008: yanren_3
+    21300010: yanren_4
+    21300012: yanren_5
+    21300014: yanren_6
+    21300016: yanren_7
+    21300018: yanren_8
+    21300020: yanren_10
+    21300022: yanren_11
+    21300024: yanren_12
+    21300026: yanren_13
+    21300028: yanren_14
+    21300030: yanren_15
+    21300032: yanren_16
+    21300034: yanren_18
+    21300036: yanren_36
+    21300038: yanren_55
+    21300040: yanren_56
+    21300042: yanren_62
+    21300044: yanren_66
+    21300046: yanren_59
+    21300048: yanren_56
+    21300050: yanren_40
+    21300052: yanren_41
+    21300054: yanren_36
+    21300056: yanren_27
+    21300058: yanren_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: yanren_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 862
+        width: 105
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 862
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 832
+        width: 41
+        height: 27
+      alignment: 9
+      pivot: {x: .453274995, y: .207320601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 829
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: .714259326, y: .79933387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 826
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 825
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: .726162374, y: .84893626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 824
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 816
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: .252276719, y: .845277309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 768
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: .70731926, y: .859444022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 774
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: .282303363, y: .823278785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 765
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: .331568509, y: .828953326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 759
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: .246949673, y: .87809062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 752
+        width: 26
+        height: 62
+      alignment: 9
+      pivot: {x: .705272973, y: .884129703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 214
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 685
+        width: 214
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 214
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 468
+        width: 88
+        height: 74
+      alignment: 9
+      pivot: {x: .131428719, y: .857134044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 52
+        height: 98
+      alignment: 9
+      pivot: {x: .664467573, y: .566904485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 134
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 134
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 480
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 379
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 370
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 270
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 256
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yanren_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 764
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

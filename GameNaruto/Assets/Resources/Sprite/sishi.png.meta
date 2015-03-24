@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 7ce2e391eb97e2048bc4af6a3af3b611
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sishi
+    21300002: sishi_0
+    21300004: sishi_1
+    21300006: sishi_2
+    21300008: sishi_4
+    21300010: sishi_5
+    21300012: sishi_6
+    21300014: sishi_7
+    21300016: sishi_8
+    21300018: sishi_9
+    21300020: sishi_10
+    21300022: sishi_11
+    21300024: sishi_12
+    21300026: sishi_13
+    21300028: sishi_14
+    21300030: sishi_15
+    21300032: sishi_19
+    21300034: sishi_39
+    21300036: sishi_40
+    21300038: sishi_81
+    21300040: sishi_69
+    21300042: sishi_70
+    21300044: sishi_71
+    21300046: sishi_62
+    21300048: sishi_58
+    21300050: sishi_42
+    21300052: sishi_40
+    21300054: sishi_27
+    21300056: sishi_28
+    21300058: sishi_28
+    21300060: sishi_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sishi_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 277
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: .664107382, y: .969713509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 277
+        width: 23
+        height: 14
+      alignment: 9
+      pivot: {x: .236511722, y: .969713509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 267
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 260
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: .275999755, y: .819355607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 259
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: .820689261, y: .790625572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 257
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 256
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .22692284, y: .209091648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 255
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 253
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: .688118279, y: .816974044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 248
+        width: 15
+        height: 43
+      alignment: 9
+      pivot: {x: .64511925, y: .942111015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 247
+        width: 16
+        height: 44
+      alignment: 9
+      pivot: {x: .547916412, y: .906560719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 243
+        width: 27
+        height: 48
+      alignment: 9
+      pivot: {x: .381752282, y: .868848145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 241
+        width: 14
+        height: 50
+      alignment: 9
+      pivot: {x: .71081543, y: .938159764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 229
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: .731594086, y: .908884168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 226
+        width: 216
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 159
+        width: 216
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_39
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 12
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 12
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 265
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 136
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 145
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: .533430338, y: .11563351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 135
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_62
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_58
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 18
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_42
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 34
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 36
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 42
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 139
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sishi_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 212
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

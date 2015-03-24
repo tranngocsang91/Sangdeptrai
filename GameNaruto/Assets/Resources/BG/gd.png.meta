@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 5cd6f2d6324c4be47bce651e244daa99
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gd
+    21300002: gd_0
+    21300004: gd_1
+    21300006: gd_2
+    21300008: gd_3
+    21300010: gd_4
+    21300012: gd_5
+    21300014: gd_6
+    21300016: gd_7
+    21300018: gd_8
+    21300020: gd_9
+    21300022: gd_22
+    21300024: gd_23
+    21300026: gd_24
+    21300028: gd_25
+    21300030: gd_26
+    21300032: gd_29
+    21300034: gd_30
+    21300036: gd_34
+    21300038: gd_23
+    21300040: gd_24
+    21300042: gd_25
+    21300044: gd_26
+    21300046: gd_27
+    21300048: gd_28
+    21300050: gd_29
+    21300052: gd_30
+    21300054: gd_26
+    21300056: gd_27
+    21300058: gd_28
+    21300060: gd_29
+    21300062: gd_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 253
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 373
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 332
+        width: 230
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 325
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 321
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 321
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 176
+        width: 79
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 168
+        width: 78
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 125
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 86
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 107
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 26
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 12
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 285
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 257
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 207
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 135
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 18
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 33
+        width: 120
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 241
+        width: 188
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 219
+        width: 105
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 105
+        width: 79
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 241
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gd_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

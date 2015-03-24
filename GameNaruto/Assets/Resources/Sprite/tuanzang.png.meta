@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 6fb7515a5018fcd46bb18d72ad3ec0cb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tuanzang
+    21300002: tuanzang_0
+    21300004: tuanzang_2
+    21300006: tuanzang_3
+    21300008: tuanzang_4
+    21300010: tuanzang_5
+    21300012: tuanzang_6
+    21300014: tuanzang_7
+    21300016: tuanzang_8
+    21300018: tuanzang_9
+    21300020: tuanzang_10
+    21300022: tuanzang_11
+    21300024: tuanzang_12
+    21300026: tuanzang_13
+    21300028: tuanzang_14
+    21300030: tuanzang_17
+    21300032: tuanzang_18
+    21300034: tuanzang_19
+    21300036: tuanzang_20
+    21300038: tuanzang_21
+    21300040: tuanzang_22
+    21300042: tuanzang_33
+    21300044: tuanzang_34
+    21300046: tuanzang_41
+    21300048: tuanzang_72
+    21300050: tuanzang_84
+    21300052: tuanzang_85
+    21300054: tuanzang_86
+    21300056: tuanzang_87
+    21300058: tuanzang_88
+    21300060: tuanzang_89
+    21300062: tuanzang_90
+    21300064: tuanzang_91
+    21300066: tuanzang_92
+    21300068: tuanzang_90
+    21300070: tuanzang_91
+    21300072: tuanzang_89
+    21300074: tuanzang_90
+    21300076: tuanzang_86
+    21300078: tuanzang_87
+    21300080: tuanzang_86
+    21300082: tuanzang_85
+    21300084: tuanzang_85
+    21300086: tuanzang_59
+    21300088: tuanzang_54
+    21300090: tuanzang_44
+    21300092: tuanzang_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tuanzang_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 991
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 982
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 980
+        width: 97
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 981
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 973
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 969
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 967
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 965
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 957
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 956
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 946
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 945
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 941
+        width: 215
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 872
+        width: 215
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 869
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 868
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 818
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_20
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 812
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 812
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_22
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 800
+        width: 160
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 618
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_34
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 655
+        width: 174
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_41
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 322
+        width: 382
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_72
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 7
+        width: 394
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 993
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_85
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 960
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_86
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 957
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_87
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 957
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 955
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_89
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 953
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_90
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 953
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_91
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 946
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 872
+        width: 215
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 873
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_91
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 818
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_89
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 811
+        width: 135
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_90
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 808
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_86
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 611
+        width: 290
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 590
+        width: 161
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 644
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 643
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 648
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 396
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_54
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 320
+        width: 456
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 448
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuanzang_45
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 36
+        width: 410
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

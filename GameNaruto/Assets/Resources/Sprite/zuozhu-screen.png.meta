@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 4c5611a6e0fc8d24884f89a6c0d2dc6e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zuozhu-screen
+    21300002: zuozhu-screen_0
+    21300004: zuozhu-screen_1
+    21300006: zuozhu-screen_3
+    21300008: zuozhu-screen_4
+    21300010: zuozhu-screen_5
+    21300012: zuozhu-screen_7
+    21300014: zuozhu-screen_10
+    21300016: zuozhu-screen_12
+    21300018: zuozhu-screen_23
+    21300020: zuozhu-screen_24
+    21300022: zuozhu-screen_25
+    21300024: zuozhu-screen_26
+    21300026: zuozhu-screen_27
+    21300028: zuozhu-screen_28
+    21300030: zuozhu-screen_29
+    21300032: zuozhu-screen_30
+    21300034: zuozhu-screen_31
+    21300036: zuozhu-screen_32
+    21300038: zuozhu-screen_32
+    21300040: zuozhu-screen_31
+    21300042: zuozhu-screen_32
+    21300044: zuozhu-screen_22
+    21300046: zuozhu-screen_22
+    21300048: zuozhu-screen_23
+    21300050: zuozhu-screen_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zuozhu-screen_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1995
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1950
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1709
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1705
+        width: 130
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1691
+        width: 158
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1376
+        width: 266
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1061
+        width: 258
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1018
+        width: 275
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1983
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1985
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1956
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1937
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1904
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1901
+        width: 99
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1893
+        width: 47
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_30
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1881
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_31
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1880
+        width: 97
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1667
+        width: 157
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1645
+        width: 202
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1357
+        width: 258
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1354
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1046
+        width: 236
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 672
+        width: 270
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 668
+        width: 285
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zuozhu-screen_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 526
+        width: 395
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

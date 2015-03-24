@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: ccc7c2eaf0643ce49bc3828ad54be22d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dashewan-attack2-wanshe
+    21300002: dashewan-attack2-wanshe_0
+    21300004: dashewan-attack2-wanshe_2
+    21300006: dashewan-attack2-wanshe_4
+    21300008: dashewan-attack2-wanshe_5
+    21300010: dashewan-attack2-wanshe_6
+    21300012: dashewan-attack2-wanshe_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dashewan-attack2-wanshe_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 215
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan-attack2-wanshe_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 67
+        width: 107
+        height: 85
+      alignment: 9
+      pivot: {x: .865314245, y: .48961845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan-attack2-wanshe_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 115
+        height: 86
+      alignment: 9
+      pivot: {x: .893496156, y: .491778523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan-attack2-wanshe_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 76
+        height: 61
+      alignment: 9
+      pivot: {x: .864151001, y: .477315485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan-attack2-wanshe_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 51
+        height: 41
+      alignment: 9
+      pivot: {x: .830116093, y: .516875088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan-attack2-wanshe_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 246
+        height: 175
+      alignment: 9
+      pivot: {x: .0997281596, y: .430534661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

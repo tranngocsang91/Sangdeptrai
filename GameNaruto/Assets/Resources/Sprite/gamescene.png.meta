@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: ec7cd338fca237e49967a0236189b169
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gamescene
+    21300002: gamescene_1
+    21300004: gamescene_2
+    21300006: gamescene_3
+    21300008: gamescene_5
+    21300010: gamescene_6
+    21300012: gamescene_8
+    21300014: gamescene_9
+    21300016: gamescene_10
+    21300018: gamescene_11
+    21300020: gamescene_12
+    21300022: gamescene_13
+    21300024: gamescene_14
+    21300026: gamescene_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gamescene_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 685
+        width: 345
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 790
+        width: 21
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 454
+        width: 231
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 222
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 233
+        width: 147
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 228
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 120
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 200
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 226
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 77
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 22
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 38
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gamescene_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 186
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

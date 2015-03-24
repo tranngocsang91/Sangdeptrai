@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: a0be30225663bf94c9b7aa555ac3da93
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: injured
+    21300002: injured_0
+    21300004: injured_1
+    21300006: injured_2
+    21300008: injured_3
+    21300010: injured_8
+    21300012: injured_25
+    21300014: injured_42
+    21300016: injured_42
+    21300018: injured_25
+    21300020: injured_26
+    21300022: injured_27
+    21300024: injured_28
+    21300026: injured_29
+    21300028: injured_30
+    21300030: injured_16
+    21300032: injured_17
+    21300034: injured_16
+    21300036: injured_17
+    21300038: injured_18
+    21300040: injured_19
+    21300042: injured_20
+    21300044: injured_21
+    21300046: injured_22
+    21300048: injured_23
+    21300050: injured_24
+    21300052: injured_25
+    21300054: injured_26
+    21300056: injured_27
+    21300058: injured_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: injured_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2017
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2015
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2015
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2015
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1807
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1160
+        width: 222
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2008
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1961
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1867
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1860
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1726
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1522
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1405
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1405
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 827
+        width: 271
+        height: 278
+      alignment: 9
+      pivot: {x: .481483817, y: .0848516002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 475
+        width: 130
+        height: 263
+      alignment: 9
+      pivot: {x: .511652648, y: .0968005955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 434
+        width: 255
+        height: 293
+      alignment: 9
+      pivot: {x: .464355588, y: .143254101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1162
+        width: 202
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1406
+        width: 239
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1515
+        width: 242
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1636
+        width: 225
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1629
+        width: 244
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1719
+        width: 209
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1804
+        width: 113
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1793
+        width: 214
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1859
+        width: 219
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1912
+        width: 299
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1958
+        width: 272
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: injured_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2013
+        width: 240
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

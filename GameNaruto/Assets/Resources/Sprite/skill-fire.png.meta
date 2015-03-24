@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: e0fb3d2527279c146b7332eeb45e8adc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skill-fire
+    21300002: skill-fire_0
+    21300004: skill-fire_1
+    21300006: skill-fire_2
+    21300008: skill-fire_3
+    21300010: skill-fire_4
+    21300012: skill-fire_5
+    21300014: skill-fire_6
+    21300016: skill-fire_7
+    21300018: skill-fire_8
+    21300020: skill-fire_9
+    21300022: skill-fire_10
+    21300024: skill-fire_11
+    21300026: skill-fire_12
+    21300028: skill-fire_13
+    21300030: skill-fire_14
+    21300032: skill-fire_15
+    21300034: skill-fire_16
+    21300036: skill-fire_17
+    21300038: skill-fire_18
+    21300040: skill-fire_19
+    21300042: skill-fire_20
+    21300044: skill-fire_21
+    21300046: skill-fire_22
+    21300048: skill-fire_23
+    21300050: skill-fire_24
+    21300052: skill-fire_25
+    21300054: skill-fire_26
+    21300056: skill-fire_27
+    21300058: skill-fire_28
+    21300060: skill-fire_29
+    21300062: skill-fire_30
+    21300064: skill-fire_31
+    21300066: skill-fire_32
+    21300068: skill-fire_33
+    21300070: skill-fire_34
+    21300072: skill-fire_35
+    21300074: skill-fire_36
+    21300076: skill-fire_37
+    21300078: skill-fire_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skill-fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1946
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1878
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1882
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1881
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1886
+        width: 148
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1881
+        width: 135
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1890
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1884
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_8
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1922
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_9
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1921
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_10
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1835
+        width: 174
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_11
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1733
+        width: 191
+        height: 315
+      alignment: 9
+      pivot: {x: .5, y: .11319638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_12
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1398
+        width: 271
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1322
+        width: 260
+        height: 392
+      alignment: 9
+      pivot: {x: .506248593, y: .172598392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1252
+        width: 242
+        height: 461
+      alignment: 9
+      pivot: {x: .452144414, y: .118992604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_15
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1458
+        width: 189
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1471
+        width: 229
+        height: 233
+      alignment: 9
+      pivot: {x: .507094443, y: .20018588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1465
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1315
+        width: 212
+        height: 402
+      alignment: 9
+      pivot: {x: .530652463, y: .112041719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1336
+        width: 180
+        height: 378
+      alignment: 9
+      pivot: {x: .527076304, y: .143281162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 966
+        width: 308
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 987
+        width: 351
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 945
+        width: 338
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 952
+        width: 352
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_24
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 993
+        width: 345
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 333
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 689
+        width: 340
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 678
+        width: 319
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_28
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 676
+        width: 340
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_29
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 675
+        width: 345
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 358
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 413
+        width: 332
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 443
+        width: 369
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_33
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 421
+        width: 413
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_34
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 376
+        width: 409
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 457
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 66
+        width: 460
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_37
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 61
+        width: 457
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skill-fire_38
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 30
+        width: 526
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

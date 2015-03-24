@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: c8178ba8859832048b45d8cbc51b0a7b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: muyeshangren
+    21300002: muyeshangren_0
+    21300004: muyeshangren_1
+    21300006: muyeshangren_2
+    21300008: canhtay_T
+    21300010: dau
+    21300012: canhtay_P
+    21300014: muyeshangren_6
+    21300016: muyeshangren_7
+    21300018: Tay_T
+    21300020: Tay_P
+    21300022: chan_T
+    21300024: muyeshangren_11
+    21300026: chan_P
+    21300028: dui_T
+    21300030: dui_P
+    21300032: ThanTren
+    21300034: muyeshangren_22
+    21300036: muyeshangren_23
+    21300038: muyeshangren_24
+    21300040: muyeshangren_58
+    21300042: muyeshangren_59
+    21300044: muyeshangren_65
+    21300046: muyeshangren_58
+    21300048: muyeshangren_56
+    21300050: muyeshangren_40
+    21300052: muyeshangren_35
+    21300054: muyeshangren_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: muyeshangren_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 719
+        width: 44
+        height: 22
+      alignment: 9
+      pivot: {x: .751666605, y: .653797507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 715
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 687
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: canhtay_T
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 685
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: .288529873, y: .78562057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dau
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 684
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: .329115123, y: .171195194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: canhtay_P
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 682
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: .758377671, y: .777824163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 679
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 641
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tay_T
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 636
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: .253926098, y: .890117347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tay_P
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 631
+        width: 14
+        height: 43
+      alignment: 9
+      pivot: {x: .478029519, y: .893431187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chan_T
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 627
+        width: 33
+        height: 50
+      alignment: 9
+      pivot: {x: .248333558, y: .918325186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 621
+        width: 73
+        height: 56
+      alignment: 9
+      pivot: {x: .284547567, y: .112148829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chan_P
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 560
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: .65370059, y: .877847612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dui_T
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 560
+        width: 36
+        height: 58
+      alignment: 9
+      pivot: {x: .252371043, y: .884252071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dui_P
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 558
+        width: 34
+        height: 60
+      alignment: 9
+      pivot: {x: .718496203, y: .896205664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThanTren
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 555
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: .592860818, y: .0990765318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 484
+        width: 212
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 211
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 212
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 552
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 250
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 135
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muyeshangren_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

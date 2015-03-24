@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 2d5995fca75578043ab39eb89fe22d45
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anbu
+    21300002: anbu_0
+    21300004: anbu_1
+    21300006: anbu_2
+    21300008: anbu_3
+    21300010: anbu_4
+    21300012: anbu_5
+    21300014: anbu_6
+    21300016: anbu_7
+    21300018: anbu_8
+    21300020: anbu_9
+    21300022: anbu_10
+    21300024: anbu_11
+    21300026: anbu_12
+    21300028: anbu_13
+    21300030: anbu_14
+    21300032: anbu_15
+    21300034: anbu_16
+    21300036: anbu_17
+    21300038: anbu_19
+    21300040: anbu_23
+    21300042: anbu_24
+    21300044: anbu_25
+    21300046: anbu_27
+    21300048: anbu_28
+    21300050: anbu_29
+    21300052: anbu_34
+    21300054: anbu_50
+    21300056: anbu_57
+    21300058: anbu_58
+    21300060: anbu_74
+    21300062: anbu_76
+    21300064: anbu_47
+    21300066: anbu_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: anbu_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 984
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 984
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 987
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 989
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 992
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 978
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 975
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 989
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 917
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 926
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 938
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 903
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 902
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 902
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 903
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 875
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 873
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 807
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 847
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 817
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 805
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 805
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 667
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 790
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 667
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 700
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 569
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 431
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 364
+        width: 198
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 236
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 567
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anbu_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 181
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

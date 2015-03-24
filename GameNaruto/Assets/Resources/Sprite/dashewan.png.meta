@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 4d39e833b6afe6a43a6e1451a2156665
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dashewan
+    21300002: dashewan_0
+    21300004: dashewan_1
+    21300006: dashewan_2
+    21300008: dashewan_3
+    21300010: dashewan_4
+    21300012: dashewan_5
+    21300014: dashewan_6
+    21300016: dashewan_7
+    21300018: dashewan_8
+    21300020: dashewan_10
+    21300022: dashewan_11
+    21300024: dashewan_12
+    21300026: dashewan_13
+    21300028: dashewan_14
+    21300030: dashewan_15
+    21300032: dashewan_16
+    21300034: dashewan_17
+    21300036: dashewan_18
+    21300038: dashewan_19
+    21300040: dashewan_20
+    21300042: dashewan_21
+    21300044: dashewan_23
+    21300046: dashewan_24
+    21300048: dashewan_26
+    21300050: dashewan_27
+    21300052: dashewan_31
+    21300054: dashewan_32
+    21300056: dashewan_37
+    21300058: dashewan_70
+    21300060: dashewan_71
+    21300062: dashewan_72
+    21300064: dashewan_73
+    21300066: dashewan_74
+    21300068: dashewan_75
+    21300070: dashewan_76
+    21300072: dashewan_77
+    21300074: dashewan_78
+    21300076: dashewan_79
+    21300078: dashewan_80
+    21300080: dashewan_81
+    21300082: dashewan_82
+    21300084: dashewan_83
+    21300086: dashewan_84
+    21300088: dashewan_85
+    21300090: dashewan_86
+    21300092: dashewan_87
+    21300094: dashewan_88
+    21300096: dashewan_89
+    21300098: dashewan_90
+    21300100: dashewan_90
+    21300102: dashewan_80
+    21300104: dashewan_67
+    21300106: dashewan_62
+    21300108: dashewan_55
+    21300110: dashewan_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dashewan_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 413
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: .234209314, y: .850844145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 408
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: .314258814, y: .879469156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 400
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 401
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: .487499714, y: .887500763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 402
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 298
+        width: 177
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 396
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: .150156662, y: .891823351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 395
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 393
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 388
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: .141690344, y: .921800315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 382
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: .486862183, y: .903307557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 380
+        width: 20
+        height: 46
+      alignment: 9
+      pivot: {x: .231025696, y: .944393635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 376
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: .730647147, y: .117370605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 372
+        width: 27
+        height: 53
+      alignment: 9
+      pivot: {x: .683727145, y: .905587256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 383
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: .503626764, y: .270340681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 370
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: .604494691, y: .897532344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 370
+        width: 167
+        height: 54
+      alignment: 9
+      pivot: {x: .0506938994, y: .636618733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_18
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 362
+        width: 19
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .971595764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 197
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 295
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: .59236145, y: .953286529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 295
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 294
+        width: 216
+        height: 65
+      alignment: 9
+      pivot: {x: .0280445237, y: .565651774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_24
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 290
+        width: 27
+        height: 69
+      alignment: 9
+      pivot: {x: .415497959, y: .938124061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_26
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 297
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 33
+        height: 72
+      alignment: 9
+      pivot: {x: .494998187, y: .92645812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 194
+        width: 320
+        height: 92
+      alignment: 9
+      pivot: {x: .0174504276, y: .540541768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 217
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 42
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 235
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_78
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 221
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 195
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 395
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: .774181187, y: .879183888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 391
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_80
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 192
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_67
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 190
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_62
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 175
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 201
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dashewan_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: ca7acd04b8b39414e84fe59a3b64b9fa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wuren
+    21300002: wuren_0
+    21300004: wuren_1
+    21300006: wuren_2
+    21300008: wuren_3
+    21300010: wuren_4
+    21300012: wuren_5
+    21300014: wuren_6
+    21300016: wuren_7
+    21300018: wuren_8
+    21300020: wuren_9
+    21300022: wuren_10
+    21300024: wuren_11
+    21300026: wuren_12
+    21300028: wuren_13
+    21300030: wuren_14
+    21300032: wuren_15
+    21300034: wuren_16
+    21300036: wuren_22
+    21300038: wuren_23
+    21300040: wuren_24
+    21300042: wuren_25
+    21300044: wuren_28
+    21300046: wuren_34
+    21300048: wuren_57
+    21300050: wuren_59
+    21300052: wuren_60
+    21300054: wuren_70
+    21300056: wuren_66
+    21300058: wuren_57
+    21300060: wuren_43
+    21300062: wuren_40
+    21300064: wuren_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wuren_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 882
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: .191666603, y: .835294843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 874
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: .385714114, y: .863999009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 874
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 874
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 869
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: .376192093, y: .830149353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 869
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: .797133148, y: .81254071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 867
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: .489313751, y: .71639061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 865
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 864
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: .342625022, y: .2472011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 826
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 824
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: .201711297, y: .89413774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 825
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: .3260988, y: .813140035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 819
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: .748815119, y: .881902635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 815
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: .59215349, y: .822930515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 811
+        width: 30
+        height: 51
+      alignment: 9
+      pivot: {x: .640995264, y: .841510832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 810
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: .530343413, y: .112420887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 809
+        width: 20
+        height: 53
+      alignment: 9
+      pivot: {x: .425354779, y: .884959102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 212
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 728
+        width: 199
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 214
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 649
+        width: 162
+        height: 77
+      alignment: 9
+      pivot: {x: .124292724, y: .857938707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 527
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 560
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 321
+        width: 57
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 276
+        width: 187
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 796
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 551
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 549
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 534
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wuren_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
