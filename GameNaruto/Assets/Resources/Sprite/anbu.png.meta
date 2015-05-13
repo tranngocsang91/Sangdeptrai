@@ -55,7 +55,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -84,8 +84,8 @@ TextureImporter:
         y: 984
         width: 14
         height: 38
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .615635037, y: .866379559}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_1
       rect:
@@ -94,8 +94,8 @@ TextureImporter:
         y: 984
         width: 15
         height: 38
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .327318311, y: .853599131}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_2
       rect:
@@ -104,8 +104,8 @@ TextureImporter:
         y: 987
         width: 18
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .275154114, y: .856155813}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_3
       rect:
@@ -114,8 +114,8 @@ TextureImporter:
         y: 989
         width: 27
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .793798685, y: .848305464}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_4
       rect:
@@ -134,8 +134,8 @@ TextureImporter:
         y: 978
         width: 31
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .359832257, y: .782623291}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_6
       rect:
@@ -144,8 +144,8 @@ TextureImporter:
         y: 975
         width: 29
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .392140895, y: .0882126838}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_7
       rect:
@@ -154,8 +154,8 @@ TextureImporter:
         y: 989
         width: 43
         height: 27
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .373304486, y: .442351162}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_8
       rect:
@@ -164,8 +164,8 @@ TextureImporter:
         y: 917
         width: 23
         height: 55
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .338076502, y: .900112092}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_9
       rect:
@@ -174,8 +174,8 @@ TextureImporter:
         y: 926
         width: 33
         height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .608341098, y: .734999955}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_10
       rect:
@@ -184,18 +184,18 @@ TextureImporter:
         y: 938
         width: 54
         height: 31
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .278780192, y: .428856641}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_11
       rect:
         serializedVersion: 2
-        x: 123
+        x: 125
         y: 903
-        width: 30
+        width: 28
         height: 69
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .697324634, y: .91425091}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_12
       rect:
@@ -204,8 +204,8 @@ TextureImporter:
         y: 902
         width: 41
         height: 71
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .4732171, y: .128561527}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_13
       rect:
@@ -214,8 +214,8 @@ TextureImporter:
         y: 902
         width: 14
         height: 49
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .623342216, y: .364073455}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_14
       rect:
@@ -224,8 +224,8 @@ TextureImporter:
         y: 903
         width: 27
         height: 70
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .792364597, y: .373134941}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_15
       rect:
@@ -255,25 +255,15 @@ TextureImporter:
         width: 63
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: anbu_19
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 847
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_23
       rect:
         serializedVersion: 2
         x: 155
-        y: 817
-        width: 24
-        height: 38
+        y: 790
+        width: 80
+        height: 81
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,18 +274,8 @@ TextureImporter:
         y: 805
         width: 81
         height: 64
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: anbu_25
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 805
-        width: 25
-        height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .34041661, y: .527294159}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_27
       rect:
@@ -304,18 +284,8 @@ TextureImporter:
         y: 667
         width: 55
         height: 116
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: anbu_28
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 790
-        width: 39
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .88016814, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_29
       rect:
@@ -324,8 +294,8 @@ TextureImporter:
         y: 667
         width: 54
         height: 114
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .860035837, y: .493564546}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_34
       rect:
@@ -334,8 +304,8 @@ TextureImporter:
         y: 700
         width: 97
         height: 86
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .394964308, y: .515452564}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_50
       rect:
@@ -344,8 +314,8 @@ TextureImporter:
         y: 569
         width: 97
         height: 95
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .350329638, y: .584453404}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_57
       rect:
@@ -354,8 +324,8 @@ TextureImporter:
         y: 448
         width: 107
         height: 111
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .354196459, y: .606476665}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_58
       rect:
@@ -364,8 +334,8 @@ TextureImporter:
         y: 431
         width: 114
         height: 122
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .441942185, y: .670502186}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_74
       rect:
@@ -380,7 +350,7 @@ TextureImporter:
     - name: anbu_76
       rect:
         serializedVersion: 2
-        x: 3
+        x: 2
         y: 225
         width: 236
         height: 68
@@ -394,8 +364,8 @@ TextureImporter:
         y: 567
         width: 98
         height: 94
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .394740522, y: .512192726}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: anbu_32
       rect:

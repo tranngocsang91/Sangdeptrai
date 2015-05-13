@@ -116,7 +116,7 @@ Transition:
   m_SrcState: {fileID: 110253168}
   m_DstState: {fileID: 110200000}
   m_TransitionDuration: .0109890373
-  m_TransitionOffset: .365933925
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
@@ -136,7 +136,7 @@ Transition:
   m_SrcState: {fileID: 110264611}
   m_DstState: {fileID: 110200000}
   m_TransitionDuration: .0100455889
-  m_TransitionOffset: .374097914
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
@@ -175,7 +175,7 @@ Transition:
   m_Name: 
   m_SrcState: {fileID: 110200000}
   m_DstState: {fileID: 110220376}
-  m_TransitionDuration: 6.58482386e-05
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 6
@@ -195,14 +195,14 @@ Transition:
   m_Name: 
   m_SrcState: {fileID: 110220376}
   m_DstState: {fileID: 110200000}
-  m_TransitionDuration: .00333362771
-  m_TransitionOffset: .242287979
+  m_TransitionDuration: .00695916917
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 6
     m_ConditionEvent: chuyen
     m_EventTreshold: 0
     m_ExitTime: 0
-  m_Atomic: 1
+  m_Atomic: 0
   m_Solo: 0
   m_Mute: 0
   m_CanTransitionToSelf: 0
@@ -216,7 +216,7 @@ Transition:
   m_SrcState: {fileID: 110253663}
   m_DstState: {fileID: 110200000}
   m_TransitionDuration: .00744419731
-  m_TransitionOffset: .369230568
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
@@ -235,13 +235,13 @@ Transition:
   m_Name: 
   m_SrcState: {fileID: 110239826}
   m_DstState: {fileID: 110200000}
-  m_TransitionDuration: .0144589907
-  m_TransitionOffset: .368131697
+  m_TransitionDuration: .00396510074
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
     m_EventTreshold: 0
-    m_ExitTime: .985540986
+    m_ExitTime: .985541165
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -255,13 +255,13 @@ Transition:
   m_Name: 
   m_SrcState: {fileID: 110221165}
   m_DstState: {fileID: 110200000}
-  m_TransitionDuration: .00961527135
-  m_TransitionOffset: .369230598
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
     m_EventTreshold: 0
-    m_ExitTime: .990384698
+    m_ExitTime: 1.00149584
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -322,7 +322,7 @@ State:
   m_Motions:
   - {fileID: 7400000, guid: 2e0484057293b4b44a65a2f04ce3561d, type: 2}
   m_ParentStateMachine: {fileID: 110700000}
-  m_Position: {x: 264, y: -72, z: 0}
+  m_Position: {x: 84, y: -72, z: 0}
   m_IKOnFeet: 0
   m_Mirror: 0
   m_Tag: 
@@ -681,6 +681,9 @@ StateMachine:
       first: {fileID: 0}
       second: []
     data:
+      first: {fileID: 110282288}
+      second: []
+    data:
       first: {fileID: 110200000}
       second:
       - {fileID: 110165642}
@@ -705,9 +708,6 @@ StateMachine:
       first: {fileID: 110288757}
       second:
       - {fileID: 110163597}
-    data:
-      first: {fileID: 110282288}
-      second: []
     data:
       first: {fileID: 110239826}
       second:

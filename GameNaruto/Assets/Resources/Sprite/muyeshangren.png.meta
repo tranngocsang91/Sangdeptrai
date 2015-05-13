@@ -49,7 +49,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -79,7 +79,7 @@ TextureImporter:
         width: 44
         height: 22
       alignment: 9
-      pivot: {x: .751666605, y: .653797507}
+      pivot: {x: .751666605, y: .668626249}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_1
       rect:
@@ -109,7 +109,7 @@ TextureImporter:
         width: 16
         height: 28
       alignment: 9
-      pivot: {x: .288529873, y: .78562057}
+      pivot: {x: .405438423, y: .802322388}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: dau
       rect:
@@ -138,8 +138,8 @@ TextureImporter:
         y: 679
         width: 44
         height: 29
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .36537829, y: .403248757}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_7
       rect:
@@ -148,8 +148,8 @@ TextureImporter:
         y: 641
         width: 55
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .301609665, y: .334674269}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Tay_T
       rect:
@@ -159,7 +159,7 @@ TextureImporter:
         width: 25
         height: 41
       alignment: 9
-      pivot: {x: .253926098, y: .890117347}
+      pivot: {x: .293913871, y: .848214507}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Tay_P
       rect:
@@ -169,7 +169,7 @@ TextureImporter:
         width: 14
         height: 43
       alignment: 9
-      pivot: {x: .478029519, y: .893431187}
+      pivot: {x: .47211948, y: .873809099}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: chan_T
       rect:
@@ -179,7 +179,7 @@ TextureImporter:
         width: 33
         height: 50
       alignment: 9
-      pivot: {x: .248333558, y: .918325186}
+      pivot: {x: .253057063, y: .893384993}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_11
       rect:
@@ -199,7 +199,7 @@ TextureImporter:
         width: 29
         height: 58
       alignment: 9
-      pivot: {x: .65370059, y: .877847612}
+      pivot: {x: .676486075, y: .877847612}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: dui_T
       rect:
@@ -209,7 +209,7 @@ TextureImporter:
         width: 36
         height: 58
       alignment: 9
-      pivot: {x: .252371043, y: .884252071}
+      pivot: {x: .270773143, y: .789302409}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: dui_P
       rect:
@@ -219,7 +219,7 @@ TextureImporter:
         width: 34
         height: 60
       alignment: 9
-      pivot: {x: .718496203, y: .896205664}
+      pivot: {x: .795571268, y: .814586401}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ThanTren
       rect:
@@ -229,7 +229,7 @@ TextureImporter:
         width: 40
         height: 63
       alignment: 9
-      pivot: {x: .592860818, y: .0990765318}
+      pivot: {x: .523340225, y: .0990765318}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_22
       rect:
@@ -268,8 +268,8 @@ TextureImporter:
         y: 12
         width: 60
         height: 120
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .847268164, y: .486977398}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_59
       rect:
@@ -278,8 +278,8 @@ TextureImporter:
         y: 12
         width: 60
         height: 120
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .83858645, y: .478295654}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_65
       rect:
@@ -288,8 +288,8 @@ TextureImporter:
         y: 552
         width: 81
         height: 64
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .364235759, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_58
       rect:
@@ -298,8 +298,8 @@ TextureImporter:
         y: 259
         width: 97
         height: 86
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .431351155, y: .509679019}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_56
       rect:
@@ -308,8 +308,8 @@ TextureImporter:
         y: 250
         width: 97
         height: 95
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .315506607, y: .57447511}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_40
       rect:
@@ -318,8 +318,8 @@ TextureImporter:
         y: 150
         width: 98
         height: 94
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .429194629, y: .470472634}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_35
       rect:
@@ -328,8 +328,8 @@ TextureImporter:
         y: 135
         width: 107
         height: 111
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .370300442, y: .587518096}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: muyeshangren_26
       rect:
@@ -338,8 +338,8 @@ TextureImporter:
         y: 4
         width: 112
         height: 123
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .450436056, y: .620350003}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

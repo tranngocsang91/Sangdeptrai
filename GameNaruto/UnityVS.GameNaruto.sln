@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GameNaruto.CSharp", "UnityVS.GameNaruto.CSharp.csproj", "{D3CF8CD6-65E5-8B6A-20B5-2D1241320009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GameNaruto.CSharp.Editor", "UnityVS.GameNaruto.CSharp.Editor.csproj", "{5F77D8CC-1EA6-6CB0-D2FD-5C07CC75E66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GameNaruto.CSharp.Plugins", "UnityVS.GameNaruto.CSharp.Plugins.csproj", "{50292C1B-D816-DC41-22F5-DA4422DA6B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CF8CD6-65E5-8B6A-20B5-2D1241320009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CF8CD6-65E5-8B6A-20B5-2D1241320009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CF8CD6-65E5-8B6A-20B5-2D1241320009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CF8CD6-65E5-8B6A-20B5-2D1241320009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F77D8CC-1EA6-6CB0-D2FD-5C07CC75E66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F77D8CC-1EA6-6CB0-D2FD-5C07CC75E66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F77D8CC-1EA6-6CB0-D2FD-5C07CC75E66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F77D8CC-1EA6-6CB0-D2FD-5C07CC75E66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50292C1B-D816-DC41-22F5-DA4422DA6B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50292C1B-D816-DC41-22F5-DA4422DA6B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50292C1B-D816-DC41-22F5-DA4422DA6B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50292C1B-D816-DC41-22F5-DA4422DA6B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

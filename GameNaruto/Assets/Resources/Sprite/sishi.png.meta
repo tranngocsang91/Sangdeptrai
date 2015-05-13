@@ -52,7 +52,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -162,7 +162,7 @@ TextureImporter:
         width: 27
         height: 38
       alignment: 9
-      pivot: {x: .688118279, y: .816974044}
+      pivot: {x: .612088799, y: .742659748}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_10
       rect:
@@ -172,7 +172,7 @@ TextureImporter:
         width: 15
         height: 43
       alignment: 9
-      pivot: {x: .64511925, y: .942111015}
+      pivot: {x: .64511925, y: .933155835}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_11
       rect:
@@ -182,7 +182,7 @@ TextureImporter:
         width: 16
         height: 44
       alignment: 9
-      pivot: {x: .547916412, y: .906560719}
+      pivot: {x: .467689514, y: .897809088}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_12
       rect:
@@ -192,7 +192,7 @@ TextureImporter:
         width: 27
         height: 48
       alignment: 9
-      pivot: {x: .381752282, y: .868848145}
+      pivot: {x: .376998335, y: .847454727}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_13
       rect:
@@ -202,7 +202,7 @@ TextureImporter:
         width: 14
         height: 50
       alignment: 9
-      pivot: {x: .71081543, y: .938159764}
+      pivot: {x: .674142003, y: .922756374}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_14
       rect:
@@ -282,7 +282,7 @@ TextureImporter:
         width: 36
         height: 76
       alignment: 9
-      pivot: {x: .533430338, y: .11563351}
+      pivot: {x: .497551799, y: .155289903}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sishi_71
       rect:

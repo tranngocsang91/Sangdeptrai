@@ -66,7 +66,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -136,7 +136,7 @@ TextureImporter:
         width: 65
         height: 70
       alignment: 9
-      pivot: {x: .628254592, y: .90711236}
+      pivot: {x: .617563128, y: .900492668}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_8
       rect:
@@ -178,35 +178,35 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_18
+    - name: 
       rect:
         serializedVersion: 2
         x: 357
         y: 372
         width: 130
         height: 134
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_19
+    - name: 
       rect:
         serializedVersion: 2
         x: 488
         y: 362
         width: 209
         height: 140
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_35
+    - name: 
       rect:
         serializedVersion: 2
         x: 1
         y: 163
         width: 321
         height: 173
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_59
       rect:
@@ -306,37 +306,37 @@ TextureImporter:
         width: 87
         height: 46
       alignment: 9
-      pivot: {x: .141119599, y: .815630019}
+      pivot: {x: .114586838, y: .835702658}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_68
       rect:
         serializedVersion: 2
-        x: 582
+        x: 584
         y: 556
-        width: 24
+        width: 21
         height: 55
       alignment: 9
-      pivot: {x: .606585205, y: .883703589}
+      pivot: {x: .606584847, y: .852931917}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_69
       rect:
         serializedVersion: 2
-        x: 608
+        x: 609
         y: 556
-        width: 21
+        width: 18
         height: 54
       alignment: 9
-      pivot: {x: .378188372, y: .914494276}
+      pivot: {x: .456542969, y: .888375759}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_69
       rect:
         serializedVersion: 2
         x: 629
         y: 544
-        width: 101
+        width: 99
         height: 68
       alignment: 9
-      pivot: {x: .460730225, y: .911209106}
+      pivot: {x: .436549336, y: .843656659}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_70
       rect:
@@ -418,25 +418,25 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_60
+    - name: 
       rect:
         serializedVersion: 2
         x: 702
         y: 362
         width: 205
         height: 140
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_61
+    - name: 
       rect:
         serializedVersion: 2
         x: 909
         y: 348
         width: 293
         height: 157
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_59
       rect:
@@ -458,25 +458,25 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_61
+    - name: 
       rect:
         serializedVersion: 2
         x: 1506
         y: 346
         width: 313
         height: 158
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: you_61
+    - name: 
       rect:
         serializedVersion: 2
         x: 323
         y: 163
         width: 305
         height: 173
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_56
       rect:
@@ -485,8 +485,8 @@ TextureImporter:
         y: 121
         width: 335
         height: 212
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .129664183, y: .428940028}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: you_48
       rect:

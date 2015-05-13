@@ -77,7 +77,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -297,7 +297,7 @@ TextureImporter:
         width: 22
         height: 65
       alignment: 9
-      pivot: {x: .59236145, y: .953286529}
+      pivot: {x: .615134478, y: .93036592}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: dashewan_21
       rect:

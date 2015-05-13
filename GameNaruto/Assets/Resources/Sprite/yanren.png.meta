@@ -51,7 +51,7 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -111,7 +111,7 @@ TextureImporter:
         width: 19
         height: 28
       alignment: 9
-      pivot: {x: .714259326, y: .79933387}
+      pivot: {x: .69444418, y: .799331665}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_4
       rect:
@@ -120,8 +120,8 @@ TextureImporter:
         y: 826
         width: 44
         height: 29
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .35881874, y: .415615737}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_5
       rect:
@@ -140,8 +140,8 @@ TextureImporter:
         y: 824
         width: 55
         height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .270687312, y: .403026223}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_7
       rect:
@@ -161,7 +161,7 @@ TextureImporter:
         width: 27
         height: 46
       alignment: 9
-      pivot: {x: .70731926, y: .859444022}
+      pivot: {x: .698692203, y: .839188278}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_10
       rect:
@@ -171,7 +171,7 @@ TextureImporter:
         width: 22
         height: 40
       alignment: 9
-      pivot: {x: .282303363, y: .823278785}
+      pivot: {x: .292891055, y: .794161975}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_11
       rect:
@@ -181,7 +181,7 @@ TextureImporter:
         width: 26
         height: 49
       alignment: 9
-      pivot: {x: .331568509, y: .828953326}
+      pivot: {x: .317939758, y: .809939027}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_12
       rect:
@@ -191,7 +191,7 @@ TextureImporter:
         width: 32
         height: 55
       alignment: 9
-      pivot: {x: .246949673, y: .87809062}
+      pivot: {x: .261507988, y: .869620025}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_13
       rect:
@@ -201,7 +201,7 @@ TextureImporter:
         width: 26
         height: 62
       alignment: 9
-      pivot: {x: .705272973, y: .884129703}
+      pivot: {x: .678396344, y: .876615465}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_14
       rect:
@@ -260,8 +260,8 @@ TextureImporter:
         y: 134
         width: 60
         height: 120
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 5
+      pivot: {x: 1, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_56
       rect:
@@ -270,8 +270,8 @@ TextureImporter:
         y: 134
         width: 60
         height: 120
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .837539136, y: .487017572}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_62
       rect:
@@ -290,8 +290,8 @@ TextureImporter:
         y: 480
         width: 82
         height: 65
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .350595981, y: .513238072}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_59
       rect:
@@ -300,8 +300,8 @@ TextureImporter:
         y: 379
         width: 97
         height: 86
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .400396615, y: .524964809}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_56
       rect:
@@ -310,8 +310,8 @@ TextureImporter:
         y: 370
         width: 98
         height: 95
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .332036853, y: .586633623}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_40
       rect:
@@ -340,8 +340,8 @@ TextureImporter:
         y: 141
         width: 108
         height: 111
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .351442307, y: .602237463}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_27
       rect:
@@ -350,8 +350,8 @@ TextureImporter:
         y: 2
         width: 116
         height: 124
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .446280301, y: .654949427}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: yanren_28
       rect:
@@ -360,8 +360,8 @@ TextureImporter:
         y: 764
         width: 49
         height: 50
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .621149182, y: .816604018}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
